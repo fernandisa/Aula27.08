@@ -1,0 +1,27 @@
+body
+{
+     background-color: lightblue;
+	 font-family:arial;
+	 font-size: 12px;
+	 margin-top:10px;
+	 margin-left:5px;
+	 color: black;
+
+}
+h1
+{
+    text-align: right;
+	text-transform:uppercase;
+}
+p
+{
+   text-align: justify;
+}
+.gremio
+{
+    -color: blue;
+}
+.inter
+{
+     color: red;
+}
